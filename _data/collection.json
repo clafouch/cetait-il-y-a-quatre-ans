@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "C'était il y a quatre ans" ] },
+    "summary": { "en": [ "An analysis of the film C'était il y a quatre ans by Paulin Soumanou Vieyra" ] },
+    "items": [
+    ]
+}
