@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-filmic-element.json",
-            "label": {
-              "none": ["Filmic element"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-info-on-props.json",
             "label": {
               "none": ["Info on Props"]
