@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-scenes---image.json",
-            "label": {
-              "none": ["Scenes - Image"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-dialogues-fran-ais.json",
             "label": {
               "none": ["Dialogues Français"]
