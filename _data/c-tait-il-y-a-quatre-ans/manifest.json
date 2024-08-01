@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-scenes.json",
-            "label": {
-              "none": ["Scenes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-props.json",
             "label": {
               "none": ["Props"]
