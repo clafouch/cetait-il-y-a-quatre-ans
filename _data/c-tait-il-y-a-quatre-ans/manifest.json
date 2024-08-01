@@ -8,16 +8,6 @@
         "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/c-tait-il-y-a-quatre-ans/canvas-1/canvas",
         "type": "Canvas",
         "duration": 568.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/annotations/c-tait-il-y-a-quatre-ans-canvas-1-english-subtitles.json",
-            "label": {
-              "none": ["English Subtitles"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://clafouch.github.io/cetait-il-y-a-quatre-ans/c-tait-il-y-a-quatre-ans/canvas-1/paintings",
